@@ -1,0 +1,53 @@
+.menu { 
+    list-style: none;
+    position:fixed;
+    top: 0px;
+   width: 100%;
+    z-index: 1313;
+    cursor: pointer;
+    background: chartreuse;
+margin-top:0px ;
+}
+.item{
+   display: inline;
+padding:13px;
+font-size: 33px;
+
+    }
+    .item:hover{
+        font-size: 66px;
+        text-decoration:solid;
+    }
+
+    body{ 
+        font-family: 'Passions Conflict', cursive;
+        margin:0;
+        padding-top:813px;
+        text-align: center;
+        font-size: 51px;
+    }
+    img{
+        height:313px;
+        padding-top:1113px;
+
+
+        
+    }
+ #welcome{
+    position:absolute;
+    bottom:0px;
+    display:table;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(90deg, rgba(9,5,77,1) 24%, rgba(207,26,226,1) 25%, rgba(255,0,0,1) 26%, rgba(255,0,101,1) 56%, rgba(0,168,255,1) 100%);
+ }
+ .linha{
+
+height: 13px;
+width: 113px;
+background-color:#001d7a;
+margin: 13px auto;
+ }
+ #contato h3{
+    display:inline;
+ }
